@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# Hi I'm Manar! 👋  
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 ### 👨‍💻 About Me
@@ -10,7 +10,7 @@ My long-term goal is to become a **Backend .NET Developer**, working with **C#, 
 
 ---
 
-### 🧑‍🏫 What I’m Working On
+###  What I’m Working On
 - Strengthening my logic and fundamentals in **C++**
 - Practicing **object-oriented design**
 - Learning **Git & GitHub**
@@ -36,7 +36,7 @@ A basic console application that allows storing account information, depositing,
 
 ### 📚 Tech I’m Learning  
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg" alt="cpp" width="65" height="65"/>
+      <img src="[https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg](https://www.programiz.com/cpp-programming)" alt="cpp" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="55" height="55"/>
 </p>
@@ -44,8 +44,8 @@ A basic console application that allows storing account information, depositing,
 ---
 
 ### 📊 GitHub Stats  
-*(Replace YOUR_USERNAME with your GitHub username)*
+*ManarElsharkawy*
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![My github stats](https://github-readme-stats.vercel.app/api?username=ManarElsharkawy &show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManarElsharkawy &layout=compact&theme=tokyonight)
