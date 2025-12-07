@@ -1,5 +1,5 @@
 # Hi I'm Manar 👋
-🎓 Fresh graduate in **Business Information Systems (BIS)**  
+🎓 Fresh graduate from **Business Information Systems (BIS)**  
 💻 Aspiring **.NET Backend Developer**  
 🛠️ Currently learning **C++**, **procedural programming**, and **OOP**  
 🧩 Passionate about **problem-solving**, **programming logic**, and **building real-world projects**  
@@ -41,31 +41,26 @@
 
 <div align="center"> 
   <table> 
-    <tr> 
+    <tr>
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=ManarElsharkawy &show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub stats" /> 
-      </td> 
-      <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManarElsharkawy &theme=tokyonight&hide_border=false" alt="GitHub Streak" /> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManarElsharkawy&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> 
       </td> 
     </tr> 
   </table> 
-  <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManarElsharkawy &layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" /> 
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManarElsharkawy &theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ManarElsharkawy&theme=darkhub&no-frame=true&no-bg=true&margin-w=5" />
 </div>
 
 ---
 
 ### 📬 Contact Me  
 <div align="center">
-  <a href="mail:manar.elsharkawy195@gmail.com">
+  <a href="mailto:manar.elsharkawy195@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/manar-elsharkawy-1584a0279/">
